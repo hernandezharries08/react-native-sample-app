@@ -1,2 +1,5 @@
-# react-native-sample-app
-Small project to showcase learnings on React Native by Meta
+## Little Lemon
+
+This is the code example for the newsletter subscription application.
+
+![](little_lemon.gif)
